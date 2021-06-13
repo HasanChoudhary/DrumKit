@@ -8,8 +8,7 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-  margin: 4rem;
-  font-weight: bold;
+
 }
 
 footer {
@@ -47,7 +46,6 @@ footer {
 
 .set {
   margin: 10% auto;
-  padding: 0 11.5%;
 }
 
 .game-over {
@@ -78,6 +76,6 @@ footer {
   width: 150px;
   height: 150px;
   text-align: center;
-  margin: 10px auto;
+  margin: 10px;
   background-color: white;
 }
